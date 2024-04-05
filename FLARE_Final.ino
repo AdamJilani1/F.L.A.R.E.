@@ -1,4 +1,4 @@
-#include <SoftwareSerial.h>
+#include <SoftwareSerial.h> // Import SoftwareSerial library for bluetooth communication
 int fireSensor = 2; 
 int rLED = 3;
 int yLED = 5;
